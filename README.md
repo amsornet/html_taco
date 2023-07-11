@@ -1,2 +1,2 @@
 # html_taco
-FreeCodeCamp HTML for beginers
+FreeCodeCamp HTML for beginners
